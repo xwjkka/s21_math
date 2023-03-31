@@ -1,2 +1,2 @@
 # s21_math
-Реализация функций библиотеки math.h
+Realization some func math.h
