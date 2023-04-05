@@ -1,5 +1,5 @@
 # s21_math
-Realization some func math.h
+Realization some func math.h <br>
 team s21: toraqjun, jeannakr
 
 Makefile:
