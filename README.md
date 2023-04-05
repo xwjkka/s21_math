@@ -1,5 +1,6 @@
 # s21_math
 Realization some func math.h
+team s21: toraqjun, jeannakr
 
 Makefile:
 
